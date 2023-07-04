@@ -1,7 +1,5 @@
 # Stock Data Retrieval and Visualization
 
-# Stock Data Retrieval and Visualization
-
 The Stock Data Retrieval and Visualization project is a comprehensive Python program designed to fetch real-time stock data from the Finnhub API and provide visual representations of the data using the matplotlib library. This project aims to empower users with valuable insights into stock market trends and facilitate informed investment decisions. By combining powerful data analysis capabilities with an intuitive user interface, users can easily retrieve current and historical stock data, analyze the data points, and visualize the closing prices of stocks over time.
 
 ## Key Features
